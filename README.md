@@ -24,7 +24,38 @@ https://rufus.ie/
 ### 安装
 选择系统语言为英文，因为选择中文后，家目录的文件夹是中文的。
 
-2.配置
+2.安装必备软件
+---
+
+x window
+- xorg-server
+- xorg-xinit
+
+window compositor
+- compton
+
+window manager
+- i3-gaps
+
+status bar
+- polybar
+
+wallpaper
+- feh
+
+---
+
+terminal
+- alacritty
+
+shell
+- zsh + oh-my-zsh
+
+file manager in terminal
+- ranger
+
+
+3.配置
 ---
 
 ### 更新软件并配置国内软件源
